@@ -1,4 +1,6 @@
-﻿using TicTacToe;// create TicTacToeTools object
+﻿//Jessica Lasson, Dawson Newell, Hannah Gouff, Kayden Stuart
+
+using TicTacToe;// create TicTacToeTools object
 TicTacToeTools t = new TicTacToeTools();
 // create board
 //int[] board = Enumerable.Range(1, 9).ToArray();
